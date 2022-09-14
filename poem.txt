@@ -5,6 +5,7 @@ Pink
 OrANGE
 bLUE
 Green
+indigo
 Unicorn
 yellow
 rED
