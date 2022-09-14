@@ -9,5 +9,5 @@ indigo
 Unicorn
 yellow
 rED
-These are the colors of the rainbow.
+These are the colors of the rainbow
 And the unicorn
